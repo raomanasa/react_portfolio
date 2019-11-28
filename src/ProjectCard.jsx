@@ -4,6 +4,7 @@ const ProjectCard = (props) => {
   let project = props.project
   return (
     <>
+    
       <div class="ui card">
         <div class="image">
           <img src={project.image} />
@@ -13,11 +14,13 @@ const ProjectCard = (props) => {
 
           <div class="description">
             {project.description}
+            <a herf = {project.link}><img src = {project.img}width="100%"height="50%" ></img> </a>
+            </div>
           </div>
         </div>
-      </div>
     </>
   )
 }
 
 export default ProjectCard
+
