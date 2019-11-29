@@ -20,3 +20,11 @@ footer {
           height: 400px
       }
       
+      body {
+        background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdscxtHRImOMlaT1s2Ir1ENnEoJ9RzHkEsc0mnVH-fEPbxItjCug&s");
+        background-color: #cccccc;
+       }
+
+.ui.card:last-child {
+        margin-bottom: 30px;
+      }

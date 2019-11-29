@@ -4,28 +4,28 @@
         "name": "Fizzbuzz",
         "image": "https://miro.medium.com/proxy/1*lPfdDAivK_QNzqknqLCP8w.png",
         "description": "Game of replacing any number that is divisible by three with the word 'fizz', the one by five with word 'buzz', and the divisible by both'fizz buzz'.",
-        "link": "https://github.com/raomanasa/fizzbuzz.git"
+        "link": " https://raomanasa.github.io/fizzbuzz/"
     }, 
     {
         "id": 2,
         "name": "BMI_challenge_new",
         "image": "https://img.etimg.com/thumb/width-640,height-480,imgsize-46315,resizemode-1,msid-64911521/modi-government-now-prepares-fitness-challenge-for-school-children.jpg",
         "description": "BMI tells you how 'BIG'you are,not how 'SICK' you are.",
-        "link":"https://github.com/raomanasa/BMI_challenge_new.git"
+        "link":" https://raomanasa.github.io/BMI_challenge_new/"
     },
     {
         "id": 3,
         "name": "atm_challenge_2019",
         "image": "https://mms.businesswire.com/media/20190214005271/en/705756/5/ATM_BusinessWire_PressReleaseImage.jpg",
         "description": "Flocks can't carry around money in their pocket.They've got to go to an ATM machine,and they've got to pay a few dollors to get their own dollors out of machine ",
-        "link":"https://github.com/raomanasa/atm_challenge_2019.git"
+        "link":"https://raomanasa.github.io/atm_challenge_2019/"
     },
     {
         "id": 4,
         "name": "library_challenge",
         "image": "http://buysellgraphic.com/images/graphic_preview/large/study_drawing_reading_human_library_icons_decor_34668.jpg",
         "description": "You want weapons? We're in a library.Books are the best weapon. Library is the greatest arsenal.Arm yourself!!",
-        "link":"https://github.com/raomanasa/library-challenge.git"
+        "link":" https://raomanasa.github.io/library-challenge/"
     },
     {
         "id": 5,
