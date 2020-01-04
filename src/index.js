@@ -20,7 +20,7 @@ const App = () => {
         <Route exact path='/projects' component={Projects}></Route>
         <Route exact path='/ProjectCard'></Route>
       </Switch> 
-       <Footer />
+       <Footer/>
       </div >
     )
   };

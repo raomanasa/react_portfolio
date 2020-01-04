@@ -43,9 +43,16 @@
     },
     {
         "id": 7,
-        "name": "bs-as-service-demo",
-        "image": "http://www.thedemocompany.com/wp-content/uploads/2017/02/call-bullshit.png",
-        "description": "This was my first project. The guy lost, but won the popular vote!",
-        "link":"https://github.com/raomanasa/bs-as-service-demo.git"
+        "name": "slowfood-october-2019",
+        "image": "https://img.favpng.com/13/4/18/restaurant-chef-food-culinary-art-clip-art-png-favpng-1t34PNnXrKGhn7kKjHrCueBuh.jpg",
+        "description": "One can order food in restaurent",
+        "link":"https://github.com/raomanasa/slowfood-october-2019.git"
+    },
+    {
+        "id": 8,
+        "name": "tic-tac-toe",
+        "image": "https://thumbs.gfycat.com/HonestGentleFanworms-size_restricted.gif",
+        "description": "One can order food in restaurent",
+        "link":"https://github.com/raomanasa/tic-tac-toe.git"
     }
 ]
