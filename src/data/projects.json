@@ -1,58 +1,39 @@
 [
     {
         "id": 1,
-        "name": "Fizzbuzz",
-        "image": "https://miro.medium.com/proxy/1*lPfdDAivK_QNzqknqLCP8w.png",
-        "description": "Game of replacing any number that is divisible by three with the word 'fizz', the one by five with word 'buzz', and the divisible by both'fizz buzz'.",
-        "link": " https://raomanasa.github.io/fizzbuzz/"
-    }, 
-    {
-        "id": 2,
-        "name": "BMI_challenge_new",
-        "image": "https://img.etimg.com/thumb/width-640,height-480,imgsize-46315,resizemode-1,msid-64911521/modi-government-now-prepares-fitness-challenge-for-school-children.jpg",
-        "description": "BMI tells you how 'BIG'you are,not how 'SICK' you are.",
-        "link":" https://raomanasa.github.io/BMI_challenge_new/"
-    },
-    {
-        "id": 3,
         "name": "atm_challenge_2019",
         "image": "https://mms.businesswire.com/media/20190214005271/en/705756/5/ATM_BusinessWire_PressReleaseImage.jpg",
         "description": "Flocks can't carry around money in their pocket.They've got to go to an ATM machine,and they've got to pay a few dollors to get their own dollors out of machine ",
         "link":"https://raomanasa.github.io/atm_challenge_2019/"
     },
     {
-        "id": 4,
+        "id": 2,
         "name": "library_challenge",
         "image": "http://buysellgraphic.com/images/graphic_preview/large/study_drawing_reading_human_library_icons_decor_34668.jpg",
         "description": "You want weapons? We're in a library.Books are the best weapon. Library is the greatest arsenal.Arm yourself!!",
         "link":" https://raomanasa.github.io/library-challenge/"
     },
     {
-        "id": 5,
+        "id": 3,
         "name": "address_book",
         "image": "http://www.sounasdesign.com/wp-content/uploads/2011/08/ErAAB_04.jpg",
         "description": "You don't need an adevertising agency,just an adress book with a handful of names in it.",
         "link":"https://raomanasa.github.io/address_book/"
     },
+    
+
     {
-        "id": 6,
-        "name": "fizz_buzz_js",
-        "image": "https://cdn-images-1.medium.com/max/800/1*9NMB1-FcKt7P4H9lTeZwlg.png",
-        "description": "Game of replacing any number that is divisible by three with the word 'fizz', the one by five with word 'buzz', and the divisible by both'fizz buzz'.",
-        "link":"https://github.com/raomanasa/fizz_buzz_js.git"
-    },
-    {
-        "id": 7,
+        "id": 4,
         "name": "slowfood-october-2019",
         "image": "https://img.favpng.com/13/4/18/restaurant-chef-food-culinary-art-clip-art-png-favpng-1t34PNnXrKGhn7kKjHrCueBuh.jpg",
-        "description": "One can order food in restaurent",
-        "link":"https://github.com/raomanasa/slowfood-october-2019.git"
+        "description": "A great restaurant is one that just makes you feel like you're not sure whether you went out or you came home and confuses you. If it can do both of those things at the same time, you're hooked.",
+        "link":"https://slowfood-oct2019.herokuapp.com/"
     },
     {
-        "id": 8,
+        "id": 5,
         "name": "tic-tac-toe",
         "image": "https://thumbs.gfycat.com/HonestGentleFanworms-size_restricted.gif",
         "description": "TIC TAC TOE GAME",
-        "link":"https://github.com/raomanasa/tic-tac-toe.git"
+        "link":"https://tic-tac-toe-raomanasa.netlify.com/game"
     }
 ]
