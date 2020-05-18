@@ -9,8 +9,7 @@ const About = () => {
                 </div>
                 <div class="column">
                     <h1 className="ui header">About Me</h1>
-                    <p>I am Manasa Rao. I live in Stockholm. Currently I am part of Craft academy as Full
-stack developer. The boot camp here in craft academy has shaped my code
+                    <p>I am Manasa Rao. I live in Stockholm.I have compleated bootcamp in Craft Acedemy ,Stockholm as full-stack developer. The boot camp here in craft academy has shaped my code
 evaluation and website development knowledge, and I have the HTML, CSS, and JS
 skills to help the new position. My work at Craft academy honed my aptitude with
 object-oriented programming, React.js, Ruby on Rails frameworks and testing
