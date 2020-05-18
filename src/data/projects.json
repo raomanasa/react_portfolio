@@ -49,5 +49,13 @@
         "image": "https://spng.subpng.com/20180202/bvq/kisspng-world-travel-landmark-clip-art-global-travel-5a74e5f7ea0973.7387914315176104879586.jpg",
         "description": "Travel makes one modest. You see what a tiny place you occupy in the world.",
         "link":"https://tripwiz.netlify.app/"
+    },
+    {
+        "id": 8,
+        "name": "Calculator",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/61j2PVLnNfL._AC_SY355_.jpg",
+        "description": "A lot of people... use a calculator!",
+        "link":"https://raomanasacalculator.netlify.app"
     }
+
 ]
