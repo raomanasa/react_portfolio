@@ -5,7 +5,7 @@ const Hello = () => {
       <div className="ui main container">
       <h1>
         Manasa Rao <br/> <br/>
-        Fulstack Intern <br/>
+        Fullstack Intern <br/>
         SouthIndia AB - Stockholm <br/><br/>
         Address:<br/>
         Skagafjordsgatan 13,<br/>

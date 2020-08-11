@@ -10,8 +10,8 @@ const About = () => {
                 <div class="column">
                     <h1 className="ui header">About Me</h1>
                     <p>I am Manasa Rao. I live in Stockholm. I completed bootcamp from Craft academy, Stockholm   as Full stack developer. 
-                        I am currently working at SouthIndian Ab Stockholm as Intern. 
-                        My work at Craft academy and SouthIndian Ab honed my aptitude with object-oriented programming, React.js, Ruby on Rails,Node.js frameworks and testing frameworks such as Rspec, Cypress, Webpack etc.</p>
+                        I am currently working at SouthIndian AB, Stockholm as Intern. 
+                        My work at Craft academy and SouthIndian AB honed my aptitude with object-oriented programming, React.js, Ruby on Rails,Node.js frameworks and testing frameworks such as Rspec, Cypress, Webpack etc.</p>
                     <p>I have experience creating software components using React.js and Ruby on Rails. 
                         I am also familiar with HTML, CSS and Javascripts.
                         I have the ability to design and develop high quality codes and then test these codes to make sure they work correctly. 
