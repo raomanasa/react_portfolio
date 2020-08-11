@@ -5,8 +5,8 @@ const Hello = () => {
       <div className="ui main container">
       <h1>
         Manasa Rao <br/> <br/>
-        Fullstack Junior WebDeveloper <br/>
-        Craft Academy - Stockholm <br/><br/>
+        Fulstack Intern <br/>
+        SouthIndia AB - Stockholm <br/><br/>
         Address:<br/>
         Skagafjordsgatan 13,<br/>
         Kista - 16455<br/><br/>
